@@ -1,6 +1,6 @@
 #Project Overview: 
 
-This project is a ERP system integrated in SAGE200 and Sicon manufacturing, with this software you can reduce the number of users. 
+This project it is a ERP system integrated with SAGE200 and Sicon manufacturing, with this software you can reduce the number of users. 
 
 Steps to set up
 
